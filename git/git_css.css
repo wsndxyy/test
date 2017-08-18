@@ -1,0 +1,109 @@
+.baner{
+    height: 106px;
+    width: 400px;
+    background-color: black;
+}
+.zhong{
+    width: 400px;
+    height: 260px;
+
+}
+.bottom{
+    width: 400px;
+    height: 385px;
+}
+.san{
+    width: 20px;
+    height: 20px;
+    top: 20px;
+    left: 20px;
+    position:relative;
+}
+ .gittu{
+
+     top: -30px;
+     left: 177px;
+     position: relative;
+ }
+ .zi{
+     font-size: 13px;
+     top: -40px;
+     left: 50px;
+    float: left;
+     position: relative;
+ }
+ .zi ul li{
+     float: left;
+     list-style: none;
+ }
+ .nav_list li{
+     width: 90px;
+ }
+.nav_list li a {
+    text-align: center;
+    color: #FFFFFF;
+}
+.Search{
+    text-align: left;
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    background:#FFFFFF;
+    width:260px;
+    border-radius:5px;
+    margin:10px 0
+
+}
+.Search a{
+    text-align: left;
+    color: #a1a1a1;
+}
+.xia{
+    position: relative;
+    left: 20px;
+
+}
+.wsndxyy{
+    text-align: left;
+    border:2px solid #a1a1a1;
+    padding:10px 40px;
+    background:#FFFFFF;
+    width:260px;
+    border-radius:5px;
+    margin:10px 0
+
+}
+.wsndxyy hr{
+    position: relative;
+    right: 40px;
+    width: 340px;
+}
+.lan{
+    color: navy;
+}
+.hei{
+    color: black;
+}
+.xian{
+    width: 400px;
+    position: relative;
+    right: 20px;
+}
+.bottom img{
+    width: 50px;
+    height: 50px;
+}
+.bottom a{
+    color: #a1a1a1;
+    position: relative;
+    bottom: 20px;
+    left: 200px;
+}
+.xing img{
+    width: 20px;
+    height: 20px;
+
+}
+.xing {
+    position: relative;
+    left: 140px;
+}
